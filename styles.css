@@ -69,3 +69,44 @@ body {
 .container__botao {
     margin-bottom: 1em;
 } 
+
+.secundario {
+  align-items: center;
+  margin: 0 10em;
+}
+
+.secundario__imagem {
+  width: 80%;
+}
+
+.descricao__titulo {
+  font-weight: 700;
+  font-size: 48px;
+  color:rgb(72, 255, 0);
+margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+color:
+darkgray;
+  line-height: 150%;
+}
+
+
+
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
+
+.container__titulo2{
+  font-weight: 700;
+  font-size: 48px;
+  color:rgb(255, 0, 0);
+margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+  color:
+  rgb(255, 255, 255);
+    line-height: 150%;}
