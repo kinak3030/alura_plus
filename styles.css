@@ -110,8 +110,12 @@ margin-bottom: 0.1em;
     line-height: 150%;
   }
 
-.dispositivos {
+.dispositivos__lista {
   display: flex;
   justify-content: center;
+}
+
+.dispositivos {
+  text-align: center;
 }
     
