@@ -107,4 +107,11 @@ margin-bottom: 0.1em;
 .descricao__texto {
   color:
   rgb(255, 255, 255);
-    line-height: 150%;}
+    line-height: 150%;
+  }
+
+.dispositivos {
+  display: flex;
+  justify-content: center;
+}
+    
